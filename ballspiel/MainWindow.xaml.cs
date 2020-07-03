@@ -125,5 +125,10 @@ namespace BallSpiel
                     break;
             }
         }
+
+        private void gitMethode()
+        {
+            var t; 
+        }
     }
 }
